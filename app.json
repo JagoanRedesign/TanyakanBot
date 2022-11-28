@@ -5,12 +5,12 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Token Bot dari @BotFather.",
-            "value": "12345:abcdefg", 
+            "value": "5959238686:AAEvLWH02swKZR7VdIyt226BOoy_IggvIHk", 
             "required": true
         },
         "SUDO":{
             "description": "ID admin untuk bot",
-            "value": "654321", 
+            "value": "5166575484", 
             "required": true
         }
     }
