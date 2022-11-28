@@ -1,2 +1,3 @@
 pytelegrambotapi
 python-dotenv
+python-telegram-bot==3.9
